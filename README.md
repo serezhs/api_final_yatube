@@ -5,7 +5,7 @@ REST API для проекта Yatube(https://github.com/serezhs/yatube)
 Клонировать репозиторий и перейти в него в командной строке:  
 
 ```
-https://github.com/serezhs/api_final_yatube.git
+git clone https://github.com/serezhs/api_final_yatube.git
 ```
 
 Cоздать и активировать виртуальное окружение:
